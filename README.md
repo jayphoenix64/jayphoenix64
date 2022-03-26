@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jayphoenix64
+- 👀 I’m interested in web development and improving on that
+- 🌱 I’m currently learning angular
